@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission Story App Intermediate</string>
+    <string name="new_story">New Story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="foto_story">Foto Story</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="nama_user">Nama User</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="story">Story</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_as_guest">Login as Guest</string>
+    <string name="logout">Logout</string>
+    <string name="password_must_be_at_least_8_characters">Password must be at least 8 characters</string>
+</resources>
