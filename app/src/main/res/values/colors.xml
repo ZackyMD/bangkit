@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bright_red">#FFFF0000</color> <!-- Warna merah nyala -->
+    <color name="sky_blue">#FF87CEEB</color> <!-- Warna biru langit -->
+    <color name="cream">#F8F4E1</color>
+</resources>
